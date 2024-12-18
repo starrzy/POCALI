@@ -1,4 +1,4 @@
-# POCALI
+# POCALI: Prediction and insight On CAncer LncRNA by Integrating multi-omics data with machine learning
 
 POCALI is a novel interpretable machine-learning method that integrated multiple mechanisms and features from six perspectives (epigenomics, genomics, transcriptomics, phenotype, network, and mutation)  to predict and provide functional insight into cancer lncRNAs.
 
