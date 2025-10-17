@@ -13,7 +13,7 @@ lncRNAs are receiving increasing attention as cancer markers for cancer diagnosi
 ![Picture2](https://github.com/user-attachments/assets/4e380638-7597-410e-b8b2-276dfcc5be69)
 
 ## Citation
-Rao Z, Wu C, Liao Y, Ye C, Huang S, Zhao D. POCALI: Prediction and Insight on CAncer LncRNAs by Integrating Multi-Omics Data with Machine Learning. Small Methods. Published online May 23, 2025. doi:10.1002/smtd.202401987
+Rao Z, Wu C, Liao Y, Ye C, Huang S, Zhao D. POCALI: Prediction and Insight on CAncer LncRNAs by Integrating Multi-Omics Data with Machine Learning. Small Methods. Published online May 23, 2025. doi:[10.1002/smtd.202401987](https://onlinelibrary.wiley.com/doi/10.1002/smtd.202401987)
 
 ## Contact Information
 More information please contact Ziyan Rao at raoziyan@pku.edu.cn
